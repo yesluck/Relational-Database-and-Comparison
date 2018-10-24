@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfa68e09-73f7-4c0d-97c7-08a3a85ccf56" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hw1$RDBimpl.coverage" NAME="RDBimpl Coverage Results" MODIFIED="1537597704723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Top-Ten-Hitters" />
+    <SUITE FILE_PATH="coverage/hw1$RDBT3.coverage" NAME="RDBT3 Coverage Results" MODIFIED="1537730709355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT3" />
+    <SUITE FILE_PATH="coverage/hw1$RDBT0.coverage" NAME="RDBT0 Coverage Results" MODIFIED="1537731137898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT0" />
+    <SUITE FILE_PATH="coverage/hw1$TenGreatestHitterTest.coverage" NAME="TenGreatestHitterTest Coverage Results" MODIFIED="1537731157840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Top-Ten-Hitters/RDBimplementation" />
+    <SUITE FILE_PATH="coverage/hw1$TenGreatestHitterTest__1_.coverage" NAME="TenGreatestHitterTest (1) Coverage Results" MODIFIED="1537729647020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Top-Ten-Hitters/RDBimplementation" />
+    <SUITE FILE_PATH="coverage/hw1$CSVT0.coverage" NAME="CSVT0 Coverage Results" MODIFIED="1537684861232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT0" />
+    <SUITE FILE_PATH="coverage/hw1$CSVT2.coverage" NAME="CSVT2 Coverage Results" MODIFIED="1537685109994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT2" />
+    <SUITE FILE_PATH="coverage/hw1$TenGreatestHitters__1_.coverage" NAME="TenGreatestHitters (1) Coverage Results" MODIFIED="1537603006702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CSV/src" />
+    <SUITE FILE_PATH="coverage/hw1$TenGreatesHistterTest.coverage" NAME="TenGreatesHistterTest Coverage Results" MODIFIED="1537630785387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CSV/tests/TenGreatesHitterTest" />
+    <SUITE FILE_PATH="coverage/hw1$CSVTenGreatestHitters.coverage" NAME="CSVTenGreatestHitters Coverage Results" MODIFIED="1537729624298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Top-Ten-Hitters/CSVimplementation" />
+    <SUITE FILE_PATH="coverage/hw1$main.coverage" NAME="main Coverage Results" MODIFIED="1537375059990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hw1$CSVimpl.coverage" NAME="CSVimpl Coverage Results" MODIFIED="1537593898821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Top-Ten-Hitters" />
+    <SUITE FILE_PATH="coverage/hw1$RDBDataTable__1_.coverage" NAME="RDBDataTable (1) Coverage Results" MODIFIED="1537598178761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RDB/src" />
+    <SUITE FILE_PATH="coverage/hw1$TenGreatestHitters.coverage" NAME="TenGreatestHitters Coverage Results" MODIFIED="1537599526564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RDB/src" />
+    <SUITE FILE_PATH="coverage/hw1$CSVT1.coverage" NAME="CSVT1 Coverage Results" MODIFIED="1537684983087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT1" />
+    <SUITE FILE_PATH="coverage/hw1$RDBT4.coverage" NAME="RDBT4 Coverage Results" MODIFIED="1537731147863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT4" />
+    <SUITE FILE_PATH="coverage/hw1$CSVT4.coverage" NAME="CSVT4 Coverage Results" MODIFIED="1537729513390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT4" />
+    <SUITE FILE_PATH="coverage/hw1$RDBT1.coverage" NAME="RDBT1 Coverage Results" MODIFIED="1537731131085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT1" />
+    <SUITE FILE_PATH="coverage/hw1$RDBDataTable.coverage" NAME="RDBDataTable Coverage Results" MODIFIED="1537730660777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RDBDataTable/src" />
+    <SUITE FILE_PATH="coverage/hw1$CSVDataTable__2_.coverage" NAME="CSVDataTable (2) Coverage Results" MODIFIED="1537587528211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CSVDataTable" />
+    <SUITE FILE_PATH="coverage/hw1$CSVDataTable.coverage" NAME="CSVDataTable Coverage Results" MODIFIED="1537686456120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CSVDataTable/src" />
+    <SUITE FILE_PATH="coverage/hw1$CSVDataTable__1_.coverage" NAME="CSVDataTable (1) Coverage Results" MODIFIED="1537375345511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hw1$CSVT3.coverage" NAME="CSVT3 Coverage Results" MODIFIED="1537685497773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT3" />
+    <SUITE FILE_PATH="coverage/hw1$RDBT2.coverage" NAME="RDBT2 Coverage Results" MODIFIED="1537731135338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT2" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="765028931">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="png" value="2" />
+          <entry key="py" value="110" />
+          <entry key="sql" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="2" />
+          <entry key="Python" value="110" />
+          <entry key="SQL" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="287" />
+          <entry key="dummy" value="17" />
+          <entry key="py" value="13464" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="Python" value="13749" />
+          <entry key="SQL" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT1/CSVT1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT2/CSVT2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT3/CSVT3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT4/CSVT4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>people_csvt</find>
+      <find>UTF8MB4</find>
+      <find>'PEOPLE'&quot;</find>
+      <find>'PEOPLE';&quot;</find>
+      <find>file</find>
+      <find>None</find>
+      <find>print</find>
+      <find>self.cnx</find>
+      <find>rows[0]</find>
+      <find>Ordered</find>
+      <find>CSV</find>
+      <find>find_by_template</find>
+      <find>self.rows</find>
+      <find>csv</find>
+      <find>people_rdbt</find>
+      <find>rdb</find>
+      <find>cursor = cnx.cursor()</find>
+      <find>cnx</find>
+      <find>RDBDataTable</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>people_rdbt</replace>
+      <replace>&quot; +</replace>
+      <replace>cnx</replace>
+      <replace>RDB</replace>
+      <replace>rdb</replace>
+      <replace>battling_rdbt</replace>
+      <replace>csv</replace>
+      <replace>cursor = self.cnx.cursor()</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/CSVDataTable/csvTest.py" />
+        <option value="$PROJECT_DIR$/RDBDataTavle.py" />
+        <option value="$PROJECT_DIR$/CSVDataTable.py" />
+        <option value="$PROJECT_DIR$/RDBDataTable.py" />
+        <option value="$PROJECT_DIR$/RDBDataTable/RDBDataTable.py" />
+        <option value="$PROJECT_DIR$/Top-Ten-Hitters/RDBimpl.py" />
+        <option value="$PROJECT_DIR$/CSVDataTable/CSVDataTable.py" />
+        <option value="$PROJECT_DIR$/Top-Ten-Hitters/CSVimpl.py" />
+        <option value="$PROJECT_DIR$/CSV/src/__init__.py" />
+        <option value="$PROJECT_DIR$/RDB/src/TenGreatestHitters.py" />
+        <option value="$PROJECT_DIR$/CSV/src/TenGreatestHitters.py" />
+        <option value="$PROJECT_DIR$/CSV/tests/TenGreatesHitterTest/TenGreatesHistterTest.py" />
+        <option value="$PROJECT_DIR$/CSV/tests/TenGreatesHitterTest/TenGreatestHistterTest.py" />
+        <option value="$PROJECT_DIR$/RDB/tests/TenGreatestHitterTest/TenGreatestHitterTest.py" />
+        <option value="$PROJECT_DIR$/CSV/tests/TenGreatesHitterTest/TenGreatestHitterTest.py" />
+        <option value="$PROJECT_DIR$/CSV/src/CSVTenGreatestHitter.py" />
+        <option value="$PROJECT_DIR$/CSV/src/CSVTenGreatestHitters.py" />
+        <option value="$PROJECT_DIR$/CSV/tests/CSVT1/CSVT1.py" />
+        <option value="$PROJECT_DIR$/CSV/tests/CSVT2/CSVT2.py" />
+        <option value="$PROJECT_DIR$/CSV/tests/CSVT3/CSVT3.py" />
+        <option value="$PROJECT_DIR$/RDB/tests/RDBT2/RDBT2.py" />
+        <option value="$PROJECT_DIR$/RDB/tests/RDBT3/RDBT3.py" />
+        <option value="$PROJECT_DIR$/CSV/tests/CSVT4/CSVT4.py" />
+        <option value="$PROJECT_DIR$/RDB/tests/RDBT1/RDBT1.py" />
+        <option value="$PROJECT_DIR$/CSV/src/CSVDataTable.py" />
+        <option value="$PROJECT_DIR$/RDB/src/RDBDataTable.py" />
+        <option value="$PROJECT_DIR$/CSV/tests/CSVT0/CSVT0.py" />
+        <option value="$PROJECT_DIR$/RDB/tests/RDBT0/RDBT0.py" />
+        <option value="$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT0/CSVT0.py" />
+        <option value="$PROJECT_DIR$/Top-Ten-Hitters/RDBimplementation/RDBTenGreatestHitters.py" />
+        <option value="$PROJECT_DIR$/Top-Ten-Hitters/CSVimplementation/TenGreatestHitterTest.py" />
+        <option value="$PROJECT_DIR$/Top-Ten-Hitters/CSVimplementation/CSVTenGreatestHitters.py" />
+        <option value="$PROJECT_DIR$/CSVDataTable/src/CSVDataTable.py" />
+        <option value="$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT4/CSVT4.py" />
+        <option value="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT0/RDBT0.py" />
+        <option value="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT1/RDBT1.py" />
+        <option value="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT2/RDBT2.py" />
+        <option value="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT3/RDBT3.py" />
+        <option value="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT4/RDBT4.py" />
+        <option value="$PROJECT_DIR$/RDBDataTable/src/RDBDataTable.py" />
+        <option value="$PROJECT_DIR$/Top-Ten-Hitters/RDBimplementation/TenGreatestHitterTest.py" />
+        <option value="$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT1/CSVT1.py" />
+        <option value="$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT2/CSVT2.py" />
+        <option value="$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT3/CSVT3.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="hw1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="CSVDataTable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="CSVDataTable" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="CSVDataTable" type="462c0819:PsiDirectoryNode" />
+              <item name="tests_and_screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="CSVDataTable" type="462c0819:PsiDirectoryNode" />
+              <item name="tests_and_screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="CSVT3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="CSVDataTable" type="462c0819:PsiDirectoryNode" />
+              <item name="tests_and_screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="CSVT4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBDataTable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBDataTable" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBDataTable" type="462c0819:PsiDirectoryNode" />
+              <item name="tests_and_screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBDataTable" type="462c0819:PsiDirectoryNode" />
+              <item name="tests_and_screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBT0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBDataTable" type="462c0819:PsiDirectoryNode" />
+              <item name="tests_and_screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBT1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBDataTable" type="462c0819:PsiDirectoryNode" />
+              <item name="tests_and_screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBT2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBDataTable" type="462c0819:PsiDirectoryNode" />
+              <item name="tests_and_screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBT3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBDataTable" type="462c0819:PsiDirectoryNode" />
+              <item name="tests_and_screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBT4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="Top-Ten-Hitters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="Top-Ten-Hitters" type="462c0819:PsiDirectoryNode" />
+              <item name="CSVimplementation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw1" type="462c0819:PsiDirectoryNode" />
+              <item name="Top-Ten-Hitters" type="462c0819:PsiDirectoryNode" />
+              <item name="RDBimplementation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSVDataTable" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/RDB/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.TenGreatestHitterTest">
+    <configuration name="RDBT0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hw1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT0" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT0/RDBT0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RDBT1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hw1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT1/RDBT1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RDBT2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hw1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT2/RDBT2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RDBT4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hw1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT4/RDBT4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TenGreatestHitterTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hw1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Top-Ten-Hitters/RDBimplementation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Top-Ten-Hitters/RDBimplementation/TenGreatestHitterTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.RDBT0" />
+      <item itemvalue="Python.RDBT1" />
+      <item itemvalue="Python.RDBT2" />
+      <item itemvalue="Python.RDBT4" />
+      <item itemvalue="Python.TenGreatestHitterTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TenGreatestHitterTest" />
+        <item itemvalue="Python.RDBT4" />
+        <item itemvalue="Python.RDBT0" />
+        <item itemvalue="Python.RDBT2" />
+        <item itemvalue="Python.RDBT1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfa68e09-73f7-4c0d-97c7-08a3a85ccf56" name="Default Changelist" comment="" />
+      <created>1537332497672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537332497672</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3190272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2879518" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CSV/src/CSVTenGreatestHitters.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="people_csvt.find_by_template({'playerID' : row['playerID']}, fields = ['nameFirst', 'nameLast'])" language="Python" />
+        <watch expression="people_rdbt.find_by_primary_key([&quot;zl2737&quot;, &quot;2018&quot;, &quot;2737&quot;, &quot;1&quot;])" language="Python" />
+        <watch expression="self.find_by_primary_key([&quot;zl2737&quot;, &quot;2018&quot;, &quot;2737&quot;, &quot;1&quot;])" language="Python" />
+        <watch expression="self.templateToWhereClause(t)" language="Python" />
+        <watch expression="self.find_by_template(template).rows[0][k]" language="Python" />
+        <watch expression="cnx" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>cnx</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.find_by_template(template).rows[0][k]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.templateToWhereClause(t)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.find_by_primary_key([&quot;zl2737&quot;, &quot;2018&quot;, &quot;2737&quot;, &quot;1&quot;])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>people_rdbt.find_by_primary_key([&quot;zl2737&quot;, &quot;2018&quot;, &quot;2737&quot;, &quot;1&quot;])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>people_csvt.find_by_template({'playerID' : row['playerID']}, fields = ['nameFirst', 'nameLast'])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list(people_csvt.find_by_template({'playerID' : row['playerID']}, fields = ['nameFirst', 'nameLast']))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list(people_csvt.find_by_template({'playerID' : row['playerID']}, fields = ['nameFirst', 'nameLast'])[0].values())</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list(people_csvt.find_by_template({'playerID' : row['playerID']}, fields = ['nameFirst', 'nameLast'])[0].values())[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>['' for _ in range(len(list(dt[0].values())))]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>people_csvt.find_by_template({'playerID' : row['playerID']}, fields = ['nameFirst', 'nameLast']).values()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CSVDataTable/csvTest.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/python3/lib/python3.6/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="633" selection-start-line="633" selection-end-line="633" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/python3/lib/python3.6/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/lahman2017_2.sql" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/python3/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/python3/lib/python3.6/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RDBDataTable.py" />
+    <entry file="file://$PROJECT_DIR$/CSVDataTable.py" />
+    <entry file="file://$PROJECT_DIR$/Top-Ten-Hitters/RDBimpl.py" />
+    <entry file="file://$PROJECT_DIR$/Top-Ten-Hitters/CSVimpl.py" />
+    <entry file="file://$PROJECT_DIR$/RDBDataTable/RDBDataTable.py" />
+    <entry file="file://$PROJECT_DIR$/CSVDataTable/CSVDataTable.py" />
+    <entry file="file://$PROJECT_DIR$/CSV/src/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/RDB/src/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/CSV/tests/TenGreatesHitterTest/TenGreatestHistterTest.py" />
+    <entry file="file://$PROJECT_DIR$/RDB/tests/TenGreatestHitterTest/TenGreatestHitterTest.py" />
+    <entry file="file://$PROJECT_DIR$/CSV/src/CSVTenGreatestHitters.py" />
+    <entry file="file://$PROJECT_DIR$/CSV/tests/CSVT1/Screenshot_csv1-1.png" />
+    <entry file="file://$PROJECT_DIR$/RDB/src/RDBTenGreatestHitters.py" />
+    <entry file="file://$PROJECT_DIR$/CSV/tests/TenGreatesHitterTest/TenGreatestHitterTest.py" />
+    <entry file="file://$PROJECT_DIR$/RDB/tests/RDBT2/RDBT2.py" />
+    <entry file="file://$PROJECT_DIR$/RDB/tests/RDBT3/RDBT3.py" />
+    <entry file="file://$PROJECT_DIR$/RDB/tests/RDBT1/RDBT1.py" />
+    <entry file="file://$PROJECT_DIR$/CSV/tests/CSVT2/CSVT2.py" />
+    <entry file="file://$PROJECT_DIR$/CSV/tests/CSVT3/CSVT3.py" />
+    <entry file="file://$PROJECT_DIR$/CSV/tests/CSVT4/CSVT4.py" />
+    <entry file="file://$PROJECT_DIR$/CSV/tests/CSVT1/CSVT1.py" />
+    <entry file="file://$PROJECT_DIR$/CSV/src/CSVDataTable.py" />
+    <entry file="file://$PROJECT_DIR$/RDB/src/RDBDataTable.py" />
+    <entry file="file://$PROJECT_DIR$/RDB/tests/RDBT0/RDBT0.py" />
+    <entry file="file://$PROJECT_DIR$/CSV/tests/CSVT0/CSVT0.py" />
+    <entry file="file://$PROJECT_DIR$/CSVDataTable/src/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT0/CSVT0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT3/Screenshot_csv3-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSVDataTable/src/CSVDataTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="135" column="30" selection-start-line="135" selection-start-column="30" selection-end-line="135" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Top-Ten-Hitters/CSVimplementation/CSVTenGreatestHitters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="60" lean-forward="true" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Top-Ten-Hitters/RDBimplementation/RDBTenGreatestHitters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Top-Ten-Hitters/CSVimplementation/TenGreatestHitterTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RDBDataTable/src/RDBDataTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Top-Ten-Hitters/RDBimplementation/TenGreatestHitterTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT0/RDBT0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT1/RDBT1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT2/RDBT2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT3/RDBT3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RDBDataTable/tests_and_screenshots/RDBT4/RDBT4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT1/CSVT1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT2/CSVT2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT4/CSVT4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSVDataTable/tests_and_screenshots/CSVT3/CSVT3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
